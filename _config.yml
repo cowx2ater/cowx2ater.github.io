@@ -1,8 +1,11 @@
-title: kakao 기술 블로그
-email: opensource@kakaocorp.com
+title: 우물 128번지
+email: jongwonno@likelion.org
 description: |
-  Connect Everything 새로운 연결, 새로운 세상.
-  연결의 혁신으로 세상은 더욱 가깝고 새로워진다고 카카오는 믿습니다.
+  멋사라는 울타리 안에 모인 사자들은 어느새 그 넓던 울타리를 가득 채웠습니다.
+  이제 사자들은 스스로 자신의 울타리를 넓혀갑니다.
+
+  더 많은 사자들을 위해, 스스로를 위해,
+  초원을 동경하는 사자 대신, 울타리를 초원으로 만드는 사자가 됩니다.
 baseurl: ''
 # url: https://exam.com
 # url: 'http://tech.kakao.com'
@@ -52,7 +55,7 @@ keep_files: [assets, files]
 github: [metadata]
 # iolo's custom
 author: opensource@kakaocorp.com
-image: '/assets/images/default_blog_cover.jpg'
+image: '/assets/images/lion_cover.jpg'
 asset_url: /assets
 #asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
 #asset_url: //t1.daumcdn.net/osa/blog/assets
