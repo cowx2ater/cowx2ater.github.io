@@ -11,7 +11,7 @@ baseurl: ''
 # url: 'http://tech.kakao.com'
 timezone: Asia/Seoul
 
-repository: likeliondongguk/likeliondongguk.github.io
+repository: cowx2ater/cowx2ater.github.io
 
 permalink: /:year/:month/:day/:title/
 
