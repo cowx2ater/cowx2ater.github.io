@@ -8,7 +8,7 @@ url: https://exam.com
 # url: 'http://tech.kakao.com'
 timezone: Asia/Seoul
 
-# repository: kakao/kakao.github.io
+repository: likeliondongguk/likeliondongguk.github.io
 
 permalink: /:year/:month/:day/:title/
 
